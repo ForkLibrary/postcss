@@ -97,6 +97,7 @@
     "transpiling",
     "tokenize",
     "tokenizer",
+    "linter",
     "linters",
     "rebases",
     "minifier",
@@ -125,6 +126,7 @@
     "pantone",
     "YIQ",
     "gitter",
-    "Less’s"
+    "Less’s",
+    "visualizer"
   ]
 }
